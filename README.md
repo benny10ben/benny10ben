@@ -1,32 +1,12 @@
-### Hi there! 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Benny**, a Technical Lead and CS Graduate from GITAM University. I'm fascinated by large-scale, high-impact products and engineering comprehensive web platforms.
+I'm [**Benny**]([https://your-portfolio-link.vercel.app](https://benny-chi-ten.vercel.app/)), a Technical Lead and CS Graduate.
 
-- 🔭 I’m currently working as a **Technical Lead @ WebbHeads**
-- 🌱 I’m currently exploring **Advanced Backend Architectures & AR Systems**
-- 🏸 Outside of work, I am a competitive **Badminton player** (National Level)
-- 💬 Ask me about **Next.js, System Design, and Scalability**
+I currently work as a Technical Lead at **WebbHeads**, where I architect scalable full-stack solutions and lead a technical team of 5+. I help build comprehensive web platforms and high-performance backend architectures.
 
-<div align="left">
-  <a href="mailto:benny.developer@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/benny-rohit-y-249122309/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://your-portfolio-link.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+I'm fascinated by large-scale, high-impact products. I have engineered AR navigation systems, encrypted mobile apps, and have contributed to building comprehensive web platforms and full-stack applications.
 
-<br />
+Outside of work, I am a competitive **Badminton player** having performed at the National level. I also served as President of my university's sports club, where I directed large-scale tournaments and student engagement initiatives.
 
-### 🛠 Languages and Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.dot.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="Postgres" />
-</div>
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/benny-rohit-y-249122309/)
