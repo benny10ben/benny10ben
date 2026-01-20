@@ -2,7 +2,7 @@
 
 I'm [**Benny**](https://benny-chi-ten.vercel.app/), a Founding Engineer and an athelete from Vizag!
 
-I currently work as a Technical Lead at [**@WebbHeads**](https://www.webbheads.com/), where I architect scalable full-stack solutions and lead a technical team of 5+. I help build comprehensive web platforms and high-performance backend architectures.
+I currently work as a Technical Lead at [**@WebbHeads**](https://www.webbheads.com/), where I architect scalable full-stack solutions and lead a technical team. I help build comprehensive web platforms and high-performance backend architectures.
 
 I'm fascinated by large-scale, high-impact products. I have engineered AR navigation systems, encrypted mobile apps, and have contributed to building comprehensive web platforms and full-stack applications.
 
