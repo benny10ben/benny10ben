@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Benny**](https://benny-chi-ten.vercel.app/), a Technical Lead and an athelete from Vizag!
+I'm [**Benny**](https://benny-chi-ten.vercel.app/), a Founding Engineer and an athelete from Vizag!
 
 I currently work as a Technical Lead at [**@WebbHeads**](https://www.webbheads.com/), where I architect scalable full-stack solutions and lead a technical team of 5+. I help build comprehensive web platforms and high-performance backend architectures.
 
