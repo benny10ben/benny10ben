@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Benny**](https://benny-chi-ten.vercel.app/), a Lead Software Engineer and an athelete from Vizag!
+I'm [**Benny**](https://benny-chi-ten.vercel.app/), a Software Engineer and an athelete based in Vizag!
 
 I currently work as a Lead Software Engineer at [**@WebbHeads**](https://www.webbheads.com/), where I architect scalable full-stack solutions and lead a technical team. I help build comprehensive web platforms and high-performance backend architectures.
 
