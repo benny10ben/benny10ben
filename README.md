@@ -16,7 +16,7 @@
 
 ---
 
-**Fun fact:** I was a competitive National-level Badminton athelete  Challenge me to a match? &nbsp; 🏸
+**Fun fact:** I was a competitive National-level Badminton athelete. Challenge me to a match? &nbsp; 🏸
 
 **How to reach me developer.ben10@gmail.com**
 
