@@ -1,5 +1,3 @@
-benny-rohit / README.md
-
 👋 **Hello! I'm Benny** 
 
 ---
