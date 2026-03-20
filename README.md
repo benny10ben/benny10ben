@@ -11,7 +11,7 @@ benny-rohit / README.md
 **Eng Stuff Not @ Work**
 
 * Architecting **scalable full-stack solutions** with a focus on high-performance systems.
-* Cuurrently building **[CourtSenseAI](https://github.com/benny10ben/CourtSenseAI)** — combining computer vision with badminton analytics to turn gameplay into actionable insights.
+* Currently building **[CourtSenseAI](https://github.com/benny10ben/CourtSenseAI)** — combining computer vision with badminton analytics to turn gameplay into actionable insights.
 * Developed specialized systems, from **AR navigation** to **encrypted mobile apps**.
 * Exploring and building with **Java, C++, Kotlin, Python,** and **TypeScript**, choosing the right tool for the problem
 * 🤝 Contribute to open source when I can, especially to projects I actively use or care about.
