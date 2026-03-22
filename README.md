@@ -7,7 +7,7 @@
 ---
 **Eng Stuff Not @ Work**
 
-* Designing **full-stack systems** with an emphasis on performance, reliability, and clean architecture.
+* Designing **full-stack systems** with an emphasis on performance, reliability and clean architecture.
 * Currently building **[CourtSenseAI](https://github.com/benny10ben/CourtSenseAI)** — combining computer vision with badminton analytics to turn gameplay into actionable insights.
 * Developed specialized systems, from **AR navigation** to **encrypted mobile apps**.
 * Exploring and building with **Java, C++, Kotlin, Python,** and **TypeScript**, choosing the right tool for the problem
