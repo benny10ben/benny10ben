@@ -4,6 +4,10 @@
 
 **Eng Stuff @ Work**
 
+* Containerized 3+ core microservices by writing and optimizing Dockerfiles, reducing local development setup time by roughly 30% and eliminating "works on my machine" discrepancies across testing environments.
+* Automated CI/CD pipelines by configuring YAML scripts in Jenkins to automatically trigger unit tests and image builds upon code commits, cutting manual build time by 20%.
+* Streamlined the feature integration process by collaborating with senior engineers to track and troubleshoot container build failures, improving overall deployment pipeline success rates by 15%.
+
 ---
 **Eng Stuff Not @ Work**
 
