@@ -38,7 +38,7 @@
 
 **How to reach me developer.ben10@gmail.com**
 
-I'm **@ben-bytee** everywhere — **[LinkedIn](https://www.linkedin.com/in/benny-rohit-5220a23a7/) • [Twitter](https://x.com/benbytee) • [Instagram](https://www.instagram.com/ben.bytee)**
+I'm **@ben-bytee** everywhere — **[LinkedIn](https://www.linkedin.com/in/benny-rohit) • [Twitter](https://x.com/benbytee) • [Instagram](https://www.instagram.com/ben.bytee)**
 
 ---
 
