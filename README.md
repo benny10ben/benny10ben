@@ -49,5 +49,5 @@ I'm **@ben-bytee** everywhere — **[LinkedIn](https://www.linkedin.com/in/benny
 
 **Additional tools and frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,postgres,javascript,supabase,docker,sqlite,linux,git,github" />
-</p>
+  <img src="https://skillicons.dev/icons?i=spring,postgres,typescript,supabase,docker,jenkins,githubactions,sqlite,linux,git"
+  </p>
