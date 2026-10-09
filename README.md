@@ -12,9 +12,10 @@
 **Eng Stuff Not @ Work**
 
 * Designing **full-stack systems** with an emphasis on performance, reliability and clean architecture.
-* Currently building **[CourtSenseAI](https://github.com/benny10ben/CourtSenseAI)** — combining computer vision with badminton analytics to turn gameplay into actionable insights.
+* Currently building **[Emberr](https://github.com/emberr-app/Emberr)**, an offline-first notes and calendar app with AI features for Android and Desktop. It's my hands-on way to learn backend design, AI and the full software lifecycle, from architecture and testing to CI and releases.
+* Previously built **[CourtSenseAI](https://github.com/benny10ben/CourtSenseAI)**, which uses computer vision to turn badminton gameplay into analytics and actionable insights.
 * Developed specialized systems, from **AR navigation** to **encrypted mobile apps**.
-* Exploring and building with **Java, C++, Kotlin, Python,** and **TypeScript**, choosing the right tool for the problem
+* Exploring and building with **Java, C++, Kotlin, Python,** and **SQL**, choosing the right tool for the problem.
 * 🤝 Contribute to open source when I can, especially to projects I actively use or care about.
   
 ---
@@ -38,7 +39,7 @@
 
 **How to reach me developer.ben10@gmail.com**
 
-I'm **@ben-bytee** everywhere — **[LinkedIn](https://www.linkedin.com/in/benny-rohit) • [Twitter](https://x.com/benbytee) • [Instagram](https://www.instagram.com/ben.bytee)**
+I'm **@ben-bytee** everywhere — **[LinkedIn](https://www.linkedin.com/in/benny-rohit) • [Twitter](https://x.com/benbytee)
 
 ---
 
