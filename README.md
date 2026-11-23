@@ -1,4 +1,4 @@
-👋 **Hello! I'm Benny** 
+👋 **Hello! I'm Benny**
 
 ---
 
@@ -17,29 +17,37 @@
 * Developed specialized systems, from **AR navigation** to **encrypted mobile apps**.
 * Exploring and building with **Java, C++, Kotlin, Python,** and **SQL**, choosing the right tool for the problem.
 * 🤝 Contribute to open source when I can, especially to projects I actively use or care about.
-  
+
 ---
 
 **Open Source Contributions**
-* **[Signal Android](https://github.com/signalapp/Signal-Android)** — Tracked down 
-  why the app freezes when sending a photo to a new contact from the camera. Dug 
-  through the threading model, identified that two background processes were 
-  deadlocking each other because the app set off a file upload before a recipient 
-  was even selected, and traced it to a single line fix in the send pipeline. [→ PR #14674](https://github.com/signalapp/Signal-Android/pull/14679)
+* **[Signal Android](https://github.com/signalapp/Signal-Android)** — Tracked down
+  why the app freezes when sending a photo to a new contact from the camera. Dug
+  through the threading model, identified that two background processes were
+  deadlocking each other because the app set off a file upload before a recipient
+  was even selected, and traced it to a single line fix in the send pipeline. [→ PR #14679](https://github.com/signalapp/Signal-Android/pull/14679)
 
-* **[Ente](https://github.com/ente-io/ente)** ✅ Merged — Spotted that a button 
-  was consistently stomping over other UI elements when viewing photos. Sneaked into 
-  the layout logic, figured out it was always rendering at a fixed position without 
-  checking what was already there, and fixed it by making it calculate available 
+* **[Ente](https://github.com/ente-io/ente)** ✅ Merged — Spotted that a button
+  was consistently stomping over other UI elements when viewing photos. Dug into
+  the layout logic, figured out it was always rendering at a fixed position without
+  checking what was already there, and fixed it by making it calculate available
   screen space dynamically before positioning itself. [→ PR #9296](https://github.com/ente-io/ente/pull/9296)
-  
+
+* **[Ente](https://github.com/ente/ente)** ✅ Merged — Self-hosted servers sending
+  mail through a local relay were silently failing to deliver emails like signup
+  codes. Traced it to Go's SMTP library always upgrading the connection to STARTTLS,
+  which broke on the relay's self-signed certificate. Added an `encryption: none`
+  option that skips the upgrade only when no password is set, so credentials never
+  travel unencrypted, reproduced the bug end to end with a local mail server, and
+  covered the fix with tests against a fake SMTP server. [→ PR #14821](https://github.com/ente/ente/pull/14821)
+
 ---
 
-**Fun fact:** I was a competitive National-level Badminton athelete. Challenge me to a match? &nbsp; 🏸
+**Fun fact:** I was a competitive National-level Badminton athlete. Challenge me to a match? &nbsp; 🏸
 
 **How to reach me developer.ben10@gmail.com**
 
-I'm **@ben-bytee** everywhere — **[LinkedIn](https://www.linkedin.com/in/benny-rohit) • [Twitter](https://x.com/benbytee)
+I'm **@ben-bytee** everywhere — **[LinkedIn](https://www.linkedin.com/in/benny-rohit) • [Twitter](https://x.com/benbytee)**
 
 ---
 
@@ -50,5 +58,5 @@ I'm **@ben-bytee** everywhere — **[LinkedIn](https://www.linkedin.com/in/benny
 
 **Additional tools and frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,postgres,typescript,supabase,docker,jenkins,githubactions,sqlite,linux,git"
-  </p>
+  <img src="https://skillicons.dev/icons?i=spring,postgres,typescript,supabase,docker,jenkins,githubactions,sqlite,linux,git" />
+</p>
