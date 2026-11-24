@@ -22,7 +22,7 @@
 
 **Open Source Contributions**
 
-* **[Ente](https://github.com/ente/ente)** ✅ Merged — Self-hosted servers sending
+* **[Ente](https://github.com/ente/ente)** ✅ Merged - Self-hosted servers sending
   mail through a local relay were silently failing to deliver emails like signup
   codes. Traced it to Go's SMTP library always upgrading the connection to STARTTLS,
   which broke on the relay's self-signed certificate. Added an `encryption: none`
@@ -30,13 +30,13 @@
   travel unencrypted, reproduced the bug end to end with a local mail server, and
   covered the fix with tests against a fake SMTP server. [→ PR #14821](https://github.com/ente/ente/pull/14821)
 
-* **[Signal Android](https://github.com/signalapp/Signal-Android)** — Tracked down
+* **[Signal Android](https://github.com/signalapp/Signal-Android)** - Tracked down
   why the app freezes when sending a photo to a new contact from the camera. Dug
   through the threading model, identified that two background processes were
   deadlocking each other because the app set off a file upload before a recipient
   was even selected, and traced it to a single line fix in the send pipeline. [→ PR #14679](https://github.com/signalapp/Signal-Android/pull/14679)
 
-* **[Ente](https://github.com/ente-io/ente)** ✅ Merged — Spotted that a button
+* **[Ente](https://github.com/ente-io/ente)** ✅ Merged - Spotted that a button
   was consistently stomping over other UI elements when viewing photos. Dug into
   the layout logic, figured out it was always rendering at a fixed position without
   checking what was already there, and fixed it by making it calculate available
