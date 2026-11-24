@@ -21,6 +21,15 @@
 ---
 
 **Open Source Contributions**
+
+* **[Ente](https://github.com/ente/ente)** ✅ Merged — Self-hosted servers sending
+  mail through a local relay were silently failing to deliver emails like signup
+  codes. Traced it to Go's SMTP library always upgrading the connection to STARTTLS,
+  which broke on the relay's self-signed certificate. Added an `encryption: none`
+  option that skips the upgrade only when no password is set, so credentials never
+  travel unencrypted, reproduced the bug end to end with a local mail server, and
+  covered the fix with tests against a fake SMTP server. [→ PR #14821](https://github.com/ente/ente/pull/14821)
+
 * **[Signal Android](https://github.com/signalapp/Signal-Android)** — Tracked down
   why the app freezes when sending a photo to a new contact from the camera. Dug
   through the threading model, identified that two background processes were
@@ -33,13 +42,6 @@
   checking what was already there, and fixed it by making it calculate available
   screen space dynamically before positioning itself. [→ PR #9296](https://github.com/ente-io/ente/pull/9296)
 
-* **[Ente](https://github.com/ente/ente)** ✅ Merged — Self-hosted servers sending
-  mail through a local relay were silently failing to deliver emails like signup
-  codes. Traced it to Go's SMTP library always upgrading the connection to STARTTLS,
-  which broke on the relay's self-signed certificate. Added an `encryption: none`
-  option that skips the upgrade only when no password is set, so credentials never
-  travel unencrypted, reproduced the bug end to end with a local mail server, and
-  covered the fix with tests against a fake SMTP server. [→ PR #14821](https://github.com/ente/ente/pull/14821)
 
 ---
 
